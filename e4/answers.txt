@@ -1,0 +1,14 @@
+# Exercise 4
+# Author: Md Rownak Abtahee Diganta 
+# Student ID: 301539632 
+
+1. 
+Based on my results for the last question, I think that daily temperatures are not that much of an excellent way to predict population density.
+As seen in the plots, there is no clear trend between the two. From 15°C to 20°C, there are many outliers visible, which makes it hard to predict results.
+Also, below 15°C population density seems lower than above, but again, above 25°C  doesn’t reduce the population density much.
+However, between 15°C and 25°C, population density appears to be increasing from both sides.
+
+2.
+The method described in the question might be faster than working with uncompressed .json or .csv data because compressed data are more minor in size,
+which makes the reading data work easier as there is less data to read from. This speeds up I/O operations. Also, as it needs less storage, 
+it catches data efficiently and reduces disk reads by a grand scale.
