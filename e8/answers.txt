@@ -1,0 +1,17 @@
+# Exercise 8
+# Author: Md Rownak Abtahee Diganta 
+# Student ID: 301539632
+
+1. 
+In my case, the random forests classifier gave me the best colour prediction which is 0.757(for rgb) and  0.760(for converted value). 
+I think it is because of it is an ensemble of decision tress and it is always better than a single decision tree model. RGB, LAB, HSV have 
+different parameters to define a particular colour. In my case, different machine learning models gave me separate value for RGB and LAB.
+Which indicates that machine learning models might give better prediction based on how the colour is defined. For me, in all cases I got better results
+in LAB than RGB. I didn't use HSV. I think LAB gave me better results as it's parameters perceptual lightness and unique colours of human vision were more
+suitable for predicting data. 
+
+2. 
+In my case, I feel like the model I used is making reasonable mistakes because the accuracy score of my model, which I last ran,
+showed 0.7344827586206897, which means my model will give me predictions which would be approximately 73.4% correct.
+Adding more features like more precise information regarding climates in disastrous situations would be helpful because this information is unique
+for a particular place. Also, features like temperature differences from summer to winter would be beneficial.
