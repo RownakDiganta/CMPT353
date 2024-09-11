@@ -1,0 +1,84 @@
+# Exercise 5
+# Author: Md Rownak Abtahee Diganta 
+# Student ID: 301539632 
+
+For data- 1
+Mean of x:  8.71769618641382
+Mean of y:  12.522874034702584
+Standard deviation of x:  12.155517231222024
+Standard deviation of y:  6.63996400756785
+Range of x:  -22.635877790008944 (min) to  35.23705548785129 (max)
+Range of y:  -2.565087832693213 (min) to  27.38415261152477 (max)
+Correlation between x and y: 0.9503256954375483 
+Description : For data-1, we can see that the correlation between x and y is a positive number, 
+              which indicates that the data set's x and y data have a positive relation and this 
+              also shows that if the x variable increases, the y variable also increases.
+              
+
+For data- 2
+Mean of x:  -0.7107871267159572
+Mean of y:  -0.7489869764497991
+Standard deviation of x:  11.481583587790734
+Standard deviation of y:  6.257917998755848
+Range of x:  -33.2711130771198 (min) to  27.6470003722073 (max)
+Range of y:  -18.621803760419063 (min) to  14.14731499231748 (max)
+Correlation between x and y: 0.9551531665750373 
+Description : For data-2, we can see that the correlation between x and y is a positive number, 
+              which indicates that the data set's x and y data have a positive relation and this 
+              also shows that if the x variable increases, the y variable also increases.
+              
+
+For data- 3
+Mean of x:  0.9689074904200939
+Mean of y:  8.508535236641327
+Standard deviation of x:  2.23555786105797
+Standard deviation of y:  1.1493008110024527
+Range of x:  -2.4490643296742807 (min) to  4.51888491755363 (max)
+Range of y:  6.641734490391763 (min) to  10.551871022804317 (max)
+Correlation between x and y: 0.9819372646760661 
+Description : For data-3, we can see that the correlation between x and y is a positive number, 
+              which indicates that the data set's x and y data have a positive relation and this 
+              also shows that if the x variable increases, the y variable also increases.
+              
+
+For data- 4
+Mean of x:  49.90508614830509
+Mean of y:  18.553836525423726
+Standard deviation of x:  28.508610519881927
+Standard deviation of y:  16.545896442941686
+Range of x:  0.0 (min) to  87.3767 (max)
+Range of y:  0.0 (min) to  44.56504 (max)
+Correlation between x and y: -0.08119306735490815 
+Description : For data-4, we can see that the correlation between x and y is a negative number, 
+              which indicates that the data set's x and y data have a negative relation, however,
+              it is close to zero and this might be an indication that the x and y might not have any
+              linear relation. By plotting it we can see it is the SFU logo which proves the latter conclusion
+              is right.  
+              
+
+For data- 5
+Mean of x:  49.90999357843095
+Mean of y:  18.555524937729086
+Standard deviation of x:  28.500000943801364
+Standard deviation of y:  16.540796301840782
+Range of x:  4.337892453674525 (min) to  91.0528633396976 (max)
+Range of y:  0.0554975075811517 (min) to  49.93419703633311 (max)
+Correlation between x and y: -0.08823598983058888 
+Description : For data-5, we can see that the correlation between x and y is a negative number, 
+              which indicates that the data set's x and y data have a negative relation, however,
+              it is close to zero and this might be an indication that the x and y might not have any
+              linear relation. By plotting it we can see it is some downward lines which isn't meaningful which 
+              proves that the latter conclusion is right.  
+
+For data- 6
+Mean of x:  7.21615517960992
+Mean of y:  7.602215028237295
+Standard deviation of x:  11.921599067458313
+Standard deviation of y:  11.764382455006647
+Range of x:  -24.33382075234097 (min) to  35.402138910929 (max)
+Range of y:  -22.9563569970746 (min) to  36.07987403078143 (max)
+Correlation between x and y: 0.9350685662094906
+Description : For data-6, we can see that the correlation between x and y is a positive number, 
+              which indicates that the data set's x and y data have a positive relation and this 
+              also shows that if the x variable increases, the y variable also increases.
+              
