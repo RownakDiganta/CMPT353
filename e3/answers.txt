@@ -1,0 +1,13 @@
+# Exercise 3
+# Author: Md Rownak Abtahee Diganta 
+# Student ID: 301539632 
+
+1.
+In my case, I found that both LOESS and Kalman smoothing were pretty close for smoothing the CPU temperature. However, carefully looking at the smoothing, 
+I feel I got better results with Kalman smoothing. LOESS smoothing achieved more smoothing curves compared to Kalman smoothing. I believe this happened
+because Kalman smoothing is more sensitive towards outliers, which indicates it gives a better prediction than LOESS smoothing.
+
+2.
+I believe that knowing the accelerometer and gyroscope reading would be beneficial for a better prediction about the next latitude and longitude because
+it would have helped us to make a better Kalman filter. Besides, with those readings, I could have made a better transition matrix, which would have helped
+me create a better Kalman filter, which would be more perfect to predict.
