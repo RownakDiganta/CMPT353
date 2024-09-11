@@ -1,0 +1,23 @@
+# Exercise 1
+# Author: Md Rownak Abtahee Diganta 
+# Student ID: 301539632 
+
+1.
+I used NumPy and Pandas to do np_summary.py and pd_summary.py, where from question no. 1 to question no. 3, I  Pretty much used the same calculation.
+The only difference while doing those calculations was that while working with NumPy, I used numpy arrays, and while working with Pandas, I used data frames.
+Otherwise, both steps were the same.
+
+I felt pretty much the same while working with both libraries. However, I felt a little bit better working with Pandas because of the visual representation of
+the data. The visual representation of data in Pandas was great because of the added labels. It was helpful for me as while coding, I could quickly keep track
+of the types of data I was working with, thanks to the labels.
+
+Both codes have the same level of readability. But, for beginners, I think they might find pandas a little bit better on the getting data part 
+(commented in my code) of the code.
+
+2. 
+For me, running time for pivot_months_pandas was 8.94 ms ± 735 µs per loop (mean ± std. dev. of 7 runs, 100 loops each) and for pivot_months_loops was
+300 ms ± 2.38 ms per loop (mean ± std. dev. of 7 runs, 1 loop each).
+
+The differences are visible because of the implementation of both functions. In pivot_months_pandas, I used builted in functions of Pandas library which is 
+really fast while being executed. On the other hand, in pivot_months_loops, a lot of loops were present which takes a lot of time to be executed. Hence, 
+the conclusion is function implemented using Pandas is faster than a similar fucntion which uses loops.
