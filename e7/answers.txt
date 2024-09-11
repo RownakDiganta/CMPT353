@@ -1,0 +1,11 @@
+# Exercise 7
+# Author: Md Rownak Abtahee Diganta 
+# Student ID: 301539632
+
+1.
+The p-value which I got in my case is 2.607038813965922e-127 which is really a small value. However, it is not zero. By looking at the plot and OLS p-value, 
+I believe that it is close to being normal and the ratings are increasing pretty much.
+
+2.
+Yes, in my case the new 'better' prediction is letting the kalman filter do a better job capturing the true signal in the noise. I believe that is is because 
+of doing a better feature representation in this case.
